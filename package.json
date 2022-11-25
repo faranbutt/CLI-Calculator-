@@ -1,0 +1,29 @@
+{
+  "name": "faran_calc",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "bin/Calc.js",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-descent": "^1.0.4",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.5",
+    "@types/gradient-string": "^1.1.2",
+    "@types/inquirer": "^9.0.3"
+  }
+}
